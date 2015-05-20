@@ -1,3 +1,2 @@
-# /usr/bin/env
 this is a new file
 fix the bug
